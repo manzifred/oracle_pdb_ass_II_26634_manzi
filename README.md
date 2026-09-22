@@ -92,11 +92,5 @@ For the PDB creation, I had to first verify the actual datafile path since my Or
 
 ---
 
-## Integrity Statement
 
-All work in this repository was done by me individually on my own Oracle 21c installation. All commands were written and executed by me. Screenshots are from my own SQL Developer session. No work was shared with or copied from any classmate.
-
----
-
-## Submission Details
 
